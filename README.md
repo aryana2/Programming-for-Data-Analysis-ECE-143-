@@ -1,4 +1,4 @@
-# ECE 143: Group 13
+# ECE 143: Group 13 - Exploratory Data Analysis of Social Media Influencers as a Marketing Medium for Businesses
 
 ## Table of contents
 
